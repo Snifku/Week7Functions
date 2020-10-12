@@ -1,0 +1,11 @@
+C:\Users\opilane\source\repos\Week7Functions\FunctionReturn\bin\Debug\netcoreapp2.1\FunctionReturn.deps.json
+C:\Users\opilane\source\repos\Week7Functions\FunctionReturn\bin\Debug\netcoreapp2.1\FunctionReturn.runtimeconfig.json
+C:\Users\opilane\source\repos\Week7Functions\FunctionReturn\bin\Debug\netcoreapp2.1\FunctionReturn.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Week7Functions\FunctionReturn\bin\Debug\netcoreapp2.1\FunctionReturn.dll
+C:\Users\opilane\source\repos\Week7Functions\FunctionReturn\bin\Debug\netcoreapp2.1\FunctionReturn.pdb
+C:\Users\opilane\source\repos\Week7Functions\FunctionReturn\obj\Debug\netcoreapp2.1\FunctionReturn.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Week7Functions\FunctionReturn\obj\Debug\netcoreapp2.1\FunctionReturn.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Week7Functions\FunctionReturn\obj\Debug\netcoreapp2.1\FunctionReturn.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Week7Functions\FunctionReturn\obj\Debug\netcoreapp2.1\FunctionReturn.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Week7Functions\FunctionReturn\obj\Debug\netcoreapp2.1\FunctionReturn.dll
+C:\Users\opilane\source\repos\Week7Functions\FunctionReturn\obj\Debug\netcoreapp2.1\FunctionReturn.pdb
